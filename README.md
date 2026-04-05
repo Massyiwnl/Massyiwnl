@@ -177,7 +177,7 @@ I build white-box forensic tools, design multi-agent systems, and train deep lea
 <div align="center">
 
 ```
-"The goal is to turn data into information, and information into insight."
+"READY!"
 ```
 
 <sub>
