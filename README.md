@@ -176,9 +176,6 @@ I build white-box forensic tools, design multi-agent systems, and train deep lea
 
 <div align="center">
 
-```
-"READY!"
-```
 
 <sub>
   <strong>Massimiliano Cassia</strong> &nbsp;·&nbsp; Catania, Sicily 🇮🇹 &nbsp;·&nbsp; Open to relocation
