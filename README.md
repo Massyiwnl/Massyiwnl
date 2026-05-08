@@ -56,6 +56,16 @@ I build white-box forensic tools, design multi-agent systems, and train deep lea
 <tbody>
 
 <tr>
+<td><strong>👓 Exo→Ego Action Recognition</strong></td>
+<td>Deep Learning · Domain Adaptation</td>
+<td>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+<td>Implemented Adversarial Domain Adaptation (DANN with GRL) and Statistical DA (Multi-kernel MMD) to transfer action recognition models from exocentric cameras to egocentric smart glasses. Processed TSM embeddings from the Assembly101 dataset via LMDB and scaled training on HPC clusters using SLURM.</td>
+</tr>
+
+<tr>
 <td><strong>🔍 Forensic ELA & Local SQNR</strong></td>
 <td>Digital Forensics</td>
 <td>
