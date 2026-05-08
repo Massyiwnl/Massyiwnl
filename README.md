@@ -142,7 +142,7 @@ I build white-box forensic tools, design multi-agent systems, and train deep lea
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-orange?style=flat-square)
 ![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=flat-square&logo=c&logoColor=black)
