@@ -94,6 +94,16 @@ I build white-box forensic tools, design multi-agent systems, and train deep lea
 <td>ACO-inspired heterogeneous multi-agent system (Scout + Worker FSMs) for autonomous warehouse logistics on a grid. Stigmergy via 4-channel pheromone fields + FIPA-ACL direct communication. 95%+ map exploration in 322/500 ticks.</td>
 </tr>
 
+<tr>
+<td><strong>🖼️ Synth-Attribution</strong></td>
+<td>Multimedia Forensics · Deep Learning</td>
+<td>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+<td>Developed a Siamese ResNet18 architecture with contrastive loss to attribute AI-generated facial images (StarGAN, StyleGAN2/3) to their specific generative sources. Evaluated open-set generalization on unseen architectures using a leave-one-architecture-out protocol and integrated an optional residual front-end (SRM/High-pass) to expose high-frequency generative traces.</td>
+</tr>
+
 </tbody>
 </table>
 
