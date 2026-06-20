@@ -104,6 +104,17 @@ I build white-box forensic tools, design multi-agent systems, and train deep lea
 <td>Developed a Siamese ResNet18 architecture with contrastive loss to attribute AI-generated facial images (StarGAN, StyleGAN2/3) to their specific generative sources. Evaluated open-set generalization on unseen architectures using a leave-one-architecture-out protocol and integrated an optional residual front-end (SRM/High-pass) to expose high-frequency generative traces.</td>
 </tr>
 
+<tr>
+<td><strong>📉 Blind Deconvolution Numerics</strong></td>
+<td>Scientific Computing · Numerical Analysis</td>
+<td>
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square&logo=matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+<td>Comparative numerical study of regularization schemes (TSVD, Tikhonov, Landweber, CGLS) for ill-posed linear inverse problems. Developed a hybrid framework: a classical numerical core in MATLAB for spectral analysis (SVD, Picard plots, L-curve) and an independent PyTorch neural module exploring Physics-Informed Neural Networks (PINNs) and Deep Image Prior (DIP) for blind and non-blind deconvolution.</td>
+</tr>
+
 </tbody>
 </table>
 
